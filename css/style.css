@@ -55,7 +55,9 @@ hr {
 .lower-cloud{
   position: absolute;
   left: 300px;
-  bottom:275px;
+  bottom:350px;
+  top:400px;
+  width:125px;
 }
 
 .intro {
@@ -128,7 +130,7 @@ hr {
 .copy-right{
   font-size: .85rem;
   color: #F4EEE8;
-  margin: 25px auto;
+  margin-top: 25px;
 }
 
 .btn {
