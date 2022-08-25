@@ -48,14 +48,14 @@ hr {
 .upper-cloud{
   position: absolute;
   right:250px;
-  top:50px;
+  top:70px;
   width: 200px;
 }
 
 .lower-cloud{
   position: absolute;
   left: 300px;
-  bottom:375px;
+  bottom:350px;
 }
 
 .intro {
@@ -128,7 +128,7 @@ hr {
 .copy-right{
   font-size: .85rem;
   color: #F4EEE8;
-  margin-top: 25px;
+  margin: 25px auto 13px auto;
 }
 
 .btn {
